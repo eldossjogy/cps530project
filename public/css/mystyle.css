@@ -1,0 +1,17 @@
+.roundcorner {
+    border-radius: 25px;
+}
+
+.listpadded {
+    padding:0.7em;
+}
+
+code{
+    font-family: Consolas,"courier new";
+    color: #a4c66b;
+    background-color: #2a2b33;
+}
+
+ol {
+    padding-left: 0.9em;
+}
